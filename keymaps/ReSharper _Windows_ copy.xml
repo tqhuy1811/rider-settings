@@ -1,0 +1,5 @@
+<keymap version="1" name="ReSharper (Windows) copy" parent="ReSharper">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+</keymap>
