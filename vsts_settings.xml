@@ -4,19 +4,19 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/altsourcevn" />
+          <option name="serverUri" value="https://dev.azure.com/altsourcevn" />
+          <option name="userId" value="16860200-7eba-618b-ba97-760681e2a127" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/cool-org" />
           <option name="serverUri" value="https://dev.azure.com/cool-org" />
           <option name="userId" value="16860200-7eba-618b-ba97-760681e2a127" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;a19543d7-2e80-4b66-8d27-1d9b48f13aa7&quot;,&quot;name&quot;:&quot;cool-org&quot;,&quot;url&quot;:&quot;https://dev.azure.com/cool-org/_apis/projectCollections/a19543d7-2e80-4b66-8d27-1d9b48f13aa7&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;d93eb91d-df58-484d-b555-677284f76220&quot;,&quot;name&quot;:&quot;cool-app&quot;,&quot;revision&quot;:11,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/cool-org/_apis/projects/d93eb91d-df58-484d-b555-677284f76220&quot;}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="16860200-7eba-618b-ba97-760681e2a127" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
       </array>
     </option>
@@ -24,7 +24,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//dev.azure.com/cool-org" />
+          <option name="value" value="//dev.azure.com/altsourcevn" />
         </PropertyState>
       </array>
     </option>
